@@ -22,17 +22,17 @@ const Template = async () => {
         <div class="card_userdata">
           <ul>
             <li>${data.email}</li>
-            <li>${data.location.country}</li>
+            <li id="country">${data.location.country}</li>
           </ul>
         </div>
         <div class="card_social">
-          <a href="https://twitter.com/gndx">
+          <a href="https://twitter.com/SantiSalasB">
             <img src="${twitter}" />
           </a>
-          <a href="https://github.com/gndx">
+          <a href="https://github.com/SantiSB">
             <img src="${github}" />
           </a>
-          <a href="https://instagram.com/gndx">
+          <a href="https://instagram.com/santi.salasb">
             <img src="${instagram}" />
           </a>
         </div>
