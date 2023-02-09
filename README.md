@@ -17,8 +17,6 @@ This project was deployed by Netlify
 ![DemoRandomUser](https://user-images.githubusercontent.com/55597241/217850711-7a4fbf9c-0c50-476b-a781-24ba917b0a95.gif)
 
 
-https://user-images.githubusercontent.com/55597241/217848610-283af211-dad5-40f3-a4b1-5216d6b9272b.mp4
-
 
 
 
