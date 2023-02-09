@@ -15,6 +15,7 @@ This project was deployed by Netlify
 
 
 
+https://user-images.githubusercontent.com/55597241/217846151-2c09c8f5-330c-4129-acfa-10f65119619a.mp4
 
 
 
@@ -55,15 +56,19 @@ https://randomuser.me/api/
 ![icons8-html-5-48](https://user-images.githubusercontent.com/55597241/217684664-ff7fd9fe-7585-4fa4-9730-9e36e84c004d.png)
 ![icons8-css3-48](https://user-images.githubusercontent.com/55597241/217684672-0b43ef76-66b4-4bf2-8db3-47a1032ea6d1.png)
 ![icons8-javascript-48](https://user-images.githubusercontent.com/55597241/217684680-a256ed1c-bcd9-4506-a16b-41d6cb41356c.png)
+![logo](https://user-images.githubusercontent.com/55597241/217846434-a6116541-5845-4563-9102-7ff9a8f55c67.svg)
+![icons8-webpack-48](https://user-images.githubusercontent.com/55597241/217846311-615d4731-610e-4bd7-a72d-3bbc96dc0894.png)
+![icons8-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites -48 (1)](https://user-images.githubusercontent.com/55597241/217846873-d174aeb4-fbf7-4d28-a3e5-dae6a869231c.png)
+
 
 - :man_technologist: HTML
 - :man_technologist: CSS
 - :man_technologist: JavaScript
+- :man_technologist: Stylus
+- :man_technologist: Webpack
+- :man_technologist: Netlify
+
 ## Authors
 
 - :robot: [@SantiSB](https://github.com/SantiSB)
-
-## Authors
-
-- [@SantiSB](https://github.com/SantiSB)
 
