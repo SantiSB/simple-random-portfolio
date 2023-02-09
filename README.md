@@ -1,7 +1,7 @@
 
 # Simple Random User
 
-:wave: Welcome ! I have created a simple random user app using HTML, CSS, Stylus JavaScript and Webpack. Check it out :point_down:
+:wave: Welcome ! I have created a simple random user app using HTML, CSS, Stylus JavaScript and Webpack. Check it out
 
 This project was deployed by Netlify
 
@@ -13,6 +13,10 @@ This project was deployed by Netlify
 
 ## Demo
 
+
+
+
+https://user-images.githubusercontent.com/55597241/217848610-283af211-dad5-40f3-a4b1-5216d6b9272b.mp4
 
 
 
