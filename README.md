@@ -1,77 +1,75 @@
+# Simple Random Portfolio 👨‍💻 
 
-# Simple Random User
+Welcome to the Simple Random Portfolio ! 👋
 
-:wave: Welcome ! I have created a simple random user app using HTML, CSS, Stylus JavaScript and Webpack. Check it out
+Welcome to the "Simple Random Portfolio" repository! This project is an implementation of a web application that randomly displays a person's data, showcasing skills in web development and the use of essential tools such as Webpack, Babel, and environment variable management.
 
-This project was deployed by Netlify
+## Check It Out
+👉 [Simple Random Portfolio 👨‍💻](https://simple-random-portfolio.netlify.app/) 
 
-## Features
+## 👨‍💻 How to Contribute
+I'm thrilled to have you contribute to the Simple Random Portfolio !
+Follow these steps to get started:
 
-- Display Data of a Random Person.
-- Update Data when user reload de page.
+### Fork the Repository: 
+Click the "Fork" button at the upper-right corner of the repository page. This action will create a personal copy of the repository in your GitHub account.
 
-
-## Demo
-
-
-![DemoRandomUser](https://user-images.githubusercontent.com/55597241/217850711-7a4fbf9c-0c50-476b-a781-24ba917b0a95.gif)
-
-
-
-
-
-
-
-## Try It Yourself
-
-:point_right: https://simple-random-portfolio.netlify.app/
-## Cloning
-
-Clone my-project with git clone
+### Clone the Forked Repository: 
+Clone your forked repository to your local machine using this command:
 
 ```bash
-  git clone https://github.com/SantiSB/Simple-Random-Portfolio.git
+  git clone https://github.com/SantiSB/simple-random-portfolio.git
 ```
-## Installation
 
-Install packages with npm
+### Switch to the Develop Branch: 
+Navigate to the develop branch to ensure your work aligns with the latest development state:
 
 ```bash
-  npm install
+git checkout develop
 ```
-    
-## Deployment
 
-To deploy this project in local environment
+### Create a New Branch: 
+Move to the repository's directory and create a new branch for your contribution. Name the branch descriptively, such as feature-your-feature or bugfix-the-bug:
 
 ```bash
-  nmp run start
+git checkout -b feature-your-feature
 ```
 
+### Install Dependencies: 
+After cloning, navigate to the project directory and install required packages using npm:
 
-## API Reference
+```bash
+npm install
+```
 
-https://randomuser.me/api/
+### Make Your Changes: 
+Implement the necessary changes or improvements to the codebase.
 
+### Commit and Push: 
+Once you've made your changes, commit them with a clear and concise commit message. Then, push your changes to your forked repository:
 
-## Tech Stack
+```bash
+git add .
+git commit -m "Brief description of your changes"
+git push origin feature-your-feature
+```
+### Create a Pull Request: 
+Head to the original repository and click "Pull Request." Choose the develop branch as the target and provide a detailed description of your changes. Afterward, submit the pull request.
 
-![icons8-html-5-48](https://user-images.githubusercontent.com/55597241/217684664-ff7fd9fe-7585-4fa4-9730-9e36e84c004d.png)
-![icons8-css3-48](https://user-images.githubusercontent.com/55597241/217684672-0b43ef76-66b4-4bf2-8db3-47a1032ea6d1.png)
-![icons8-javascript-48](https://user-images.githubusercontent.com/55597241/217684680-a256ed1c-bcd9-4506-a16b-41d6cb41356c.png)
-![logo](https://user-images.githubusercontent.com/55597241/217846434-a6116541-5845-4563-9102-7ff9a8f55c67.svg)
-![icons8-webpack-48](https://user-images.githubusercontent.com/55597241/217846311-615d4731-610e-4bd7-a72d-3bbc96dc0894.png)
-![icons8-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites -48 (1)](https://user-images.githubusercontent.com/55597241/217846873-d174aeb4-fbf7-4d28-a3e5-dae6a869231c.png)
+### Review and Collaboration: 
+I will review your pull request and might offer feedback or suggestions to enhance your contribution. Collaboration and iteration are key!
 
+### Merge and Celebrate: 
+Once your pull request is approved and any requested changes are addressed, your contribution will be merged into the develop branch. Congratulations, you've successfully contributed to the Simple Random Portfolio App ! 🎉
 
-- :man_technologist: HTML
-- :man_technologist: CSS
-- :man_technologist: JavaScript
-- :man_technologist: Stylus
-- :man_technologist: Webpack
-- :man_technologist: Netlify
+## 👨‍💻 Tech Stack:
+ | [HTML](https://developer.mozilla.org/es/docs/Web/HTML)
+ | [CSS](https://developer.mozilla.org/es/docs/Web/CSS)
+ | [Stylus](https://stylus-lang.com/docs/executable.html)
+ | [JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript)
+ | [Webpack](https://webpack.js.org/)
+ | [Babel](https://babeljs.io/)
+ |
 
 ## Authors
-
-- :robot: [@SantiSB](https://github.com/SantiSB)
-
+[🐱‍💻@SantiSB](https://github.com/SantiSB)
