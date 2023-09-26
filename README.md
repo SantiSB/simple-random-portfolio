@@ -63,6 +63,13 @@ I will review your pull request and might offer feedback or suggestions to enhan
 Once your pull request is approved and any requested changes are addressed, your contribution will be merged into the develop branch. Congratulations, you've successfully contributed to the Simple Random Portfolio App ! 🎉
 
 ## 👨‍💻 Tech Stack:
+![html](https://github.com/SantiSB/simple-random-portfolio/assets/55597241/18ed7862-1472-4e18-99de-34df4cf3ab80)
+![css](https://github.com/SantiSB/simple-random-portfolio/assets/55597241/03614f57-7f3c-445d-bde9-6b3c826fd11f)
+![stylus](https://github.com/SantiSB/simple-random-portfolio/assets/55597241/8ad881b1-51fe-46c1-86c9-abbed1bf1de6)
+![javascript](https://github.com/SantiSB/simple-random-portfolio/assets/55597241/c305d2b6-d084-43a9-a405-f28c58a45aa4)
+![webpack](https://github.com/SantiSB/simple-random-portfolio/assets/55597241/ec4efc01-d1df-4118-a837-8cfcd038db94)
+![babel](https://github.com/SantiSB/simple-random-portfolio/assets/55597241/6d162371-1d81-4706-91c8-898490d785eb)
+
  | [HTML](https://developer.mozilla.org/es/docs/Web/HTML)
  | [CSS](https://developer.mozilla.org/es/docs/Web/CSS)
  | [Stylus](https://stylus-lang.com/docs/executable.html)
